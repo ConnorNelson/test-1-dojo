@@ -1,0 +1,4 @@
+id: Demo Dojo
+type: public
+modules:
+  - id: example

@@ -1,0 +1,10 @@
+#!/opt/pwn.college/python
+
+
+flag = open("/flag").read()
+answer = input("Where is Connor presenting right now?")
+if answer == "SIGCSE2024":
+    print("That is correct! Here is your flag: " + flag)
+else:
+    print("Sorry, that is wrong!")
+    
