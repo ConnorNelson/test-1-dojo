@@ -1,4 +1,5 @@
-id: Demo Dojo
+id: demo
+name: Demo
 type: public
 modules:
   - id: example
