@@ -1,5 +1,5 @@
 id: demo
 name: Demo
-type: public
+type: hidden
 modules:
   - id: example
