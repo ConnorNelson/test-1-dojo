@@ -1,5 +1,4 @@
 id: demo
 name: Demo
-type: hidden
 modules:
   - id: example
